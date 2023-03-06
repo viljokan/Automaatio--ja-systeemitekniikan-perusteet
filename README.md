@@ -4,6 +4,6 @@ Tutorial for students
 
 #### Add the last 3 digits of your student ID under this topic and mention the smallest and largest values you got for the overshoot:
 
-+ [****687](https://github.com/fartaha): Smallest overshoot: (0.35, K_p=10, K_i=2, K_d=2), Largest overshoot: (0.66, K_p=100, K_i=2, K_d=2)
++ [****687](https://github.com/fartaha): (0.35, kp=10, ki=2, kd=2), (0.66, kp=100, ki=2, kd=2)
++ [****id](https://github.com/your-github): (0.xx, kp=xx, ki=xx, kd=x), (0.xx, kp=xx, ki=xx, kd=xx)
 
-+ [add id here](your github): Smallest overshoot: (---, K_p=--, K_i=--, K_d=-), Largest overshoot: (---, K_p=--, K_i=--, K_d=--)
