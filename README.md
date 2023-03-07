@@ -6,4 +6,6 @@ Tutorial for students
 
 + [****687](https://github.com/fartaha): (0.35, kp=10, ki=2, kd=2), (0.66, kp=100, ki=2, kd=2)
 + [****id](https://github.com/your-github): (0.xx, kp=xx, ki=xx, kd=x), (0.xx, kp=xx, ki=xx, kd=xx)
++ [****307](https://github.com/pepetzku): (0.xx, kp=xx, ki=xx, kd=x), (0.xx, kp=xx, ki=xx, kd=xx)
+
 
