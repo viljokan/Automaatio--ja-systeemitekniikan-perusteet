@@ -8,5 +8,5 @@ Tutorial for students
 + [****id](https://github.com/your-github): (0.xx, kp=xx, ki=xx, kd=x), (0.xx, kp=xx, ki=xx, kd=xx)
 + [****307](https://github.com/pepetzku): (0.xx, kp=xx, ki=xx, kd=x), (0.xx, kp=xx, ki=xx, kd=xx)
 + [****id](https://github.com/your-github): (0.xx, kp=xx, ki=xx, kd=x), (0.xx, kp=xx, ki=xx, kd=xx)
-
++ [****396](https://github.com/tykolund): (0.92, kp=10, ki=5, kd=2), (3.34, kp=10, ki=2, kd=20)
 
